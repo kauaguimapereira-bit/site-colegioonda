@@ -1,0 +1,10 @@
+<svg width="480" height="360" viewBox="0 0 480 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cruz cercada por ondas, representando a identidade cristã do colégio">
+  <rect width="480" height="360" rx="24" fill="#FBF5E9"/>
+  <path d="M-10 250 C 70 210, 150 290, 230 250 C 310 210, 390 290, 490 250 L 490 380 L -10 380 Z" fill="#4FA3A0" opacity=".35"/>
+  <path d="M-10 290 C 70 255, 150 325, 230 290 C 310 255, 390 325, 490 290 L 490 380 L -10 380 Z" fill="#1F6E6E" opacity=".5"/>
+  <g transform="translate(240,150)">
+    <rect x="-11" y="-90" width="22" height="150" rx="6" fill="#123334"/>
+    <rect x="-52" y="-52" width="104" height="22" rx="6" fill="#123334"/>
+    <circle cx="0" cy="-90" r="10" fill="#F2A93C"/>
+  </g>
+</svg>

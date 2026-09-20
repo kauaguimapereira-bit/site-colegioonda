@@ -1,0 +1,30 @@
+<svg width="560" height="600" viewBox="0 0 560 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ilustração de uma criança lendo sob uma árvore, com ondas ao fundo">
+  <defs>
+    <clipPath id="frame"><rect x="0" y="0" width="560" height="600" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="560" height="600" fill="#123334"/>
+    <circle cx="440" cy="120" r="70" fill="#F2A93C"/>
+    <path d="M-20 220 C 80 180, 160 260, 260 220 C 360 180, 440 260, 580 220 L 580 640 L -20 640 Z" fill="#1F6E6E"/>
+    <path d="M-20 300 C 90 250, 170 340, 260 300 C 360 255, 450 340, 580 300 L 580 640 L -20 640 Z" fill="#2C8484"/>
+    <path d="M-20 390 C 100 340, 190 420, 280 390 C 380 355, 460 420, 580 390 L 580 640 L -20 640 Z" fill="#4FA3A0"/>
+    <path d="M-20 470 C 110 420, 200 500, 290 470 C 380 440, 470 500, 580 470 L 580 640 L -20 640 Z" fill="#FBF5E9"/>
+
+    <!-- ground / bench -->
+    <ellipse cx="230" cy="560" rx="180" ry="16" fill="#EADFC6"/>
+
+    <!-- tree -->
+    <path d="M120 560 C 118 470, 118 400, 122 330" stroke="#123334" stroke-width="10" stroke-linecap="round" fill="none"/>
+    <circle cx="118" cy="290" r="70" fill="#EE6C4D"/>
+    <circle cx="60" cy="330" r="46" fill="#F2A93C"/>
+    <circle cx="180" cy="330" r="46" fill="#F2A93C"/>
+
+    <!-- child silhouette reading -->
+    <g transform="translate(220,470)">
+      <ellipse cx="60" cy="86" rx="70" ry="10" fill="#123334" opacity=".12"/>
+      <path d="M0 90 C -4 55, 10 40, 40 38 C 72 36, 92 52, 92 82 C 92 90, 84 90, 84 90 Z" fill="#123334"/>
+      <circle cx="34" cy="20" r="18" fill="#123334"/>
+      <path d="M20 46 C 40 60, 66 58, 82 44 L 86 70 C 64 84, 34 84, 14 70 Z" fill="#F2A93C"/>
+    </g>
+  </g>
+</svg>

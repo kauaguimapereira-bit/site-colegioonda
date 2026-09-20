@@ -1,0 +1,5 @@
+<svg width="220" height="56" viewBox="0 0 220 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Colégio Onda">
+  <text x="0" y="26" font-family="Fraunces, serif" font-size="22" font-weight="600" fill="#123334">Colégio</text>
+  <text x="0" y="50" font-family="Fraunces, serif" font-size="26" font-weight="600" fill="#1F6E6E">Onda</text>
+  <path d="M76 43 C 84 37, 90 49, 98 43 C 106 37, 112 49, 120 43" stroke="#F2A93C" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
